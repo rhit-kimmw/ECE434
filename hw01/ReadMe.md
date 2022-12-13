@@ -9,6 +9,7 @@ When the program starts, you will be asked to put the number of rows and columns
 Then the main program will begin. There are total 6 possible commands as a user input.
 
 commands:
+
 'u' : UP, tells the pen to move up
 
 'd' : DOWN, tells the pen to move down
