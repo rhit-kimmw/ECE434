@@ -1,3 +1,22 @@
+# ECE434 HW1 : Etch-a-sketch
+
+This program runs an etch-a-sketch program.
+
+## start
+to start the program, use linux command './hw1.py' on the terminal.
+When the program starts, you will be asked to put the number of rows and columns. Enter the number and press Enter for each.
+
+Then the main program will begin. There are total 6 possible commands as a user input.
+
+commands:
+'u' : UP, tells the pen to move up
+'d' : DOWN, tells the pen to move down
+'l' : LEFT, tells the pen to move left
+'r' : RIGHT, tells the pen to move right
+'c' : CLEAR, clears the screen and resets
+'close' : Exit. ends the program
+
+
 # hw01 grading
 
 | Points      | Description | Comment
