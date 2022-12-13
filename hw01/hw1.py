@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+# Created by: Martino Kim
+# updated date: 12/13/2022
+# hw1 - Program for etch-a-sketch
+
 #user input the size of matrix
 yMax = int(input("Maximum rows:"))
 xMax = int(input("Maximum columns:"))
