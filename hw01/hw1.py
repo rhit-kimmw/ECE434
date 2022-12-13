@@ -1,19 +1,15 @@
 #!/usr/bin/env python3
 
+#user input the size of matrix
 yMax = int(input("Maximum rows:"))
 xMax = int(input("Maximum columns:"))
 
+#initialize the grid
 grid = [[' ' for i in range(yMax)] for j in range(xMax)]
 
 x=0
 y=0 # current position
 
-# # initialize the grid to all blanks
-# for i in range(len(grid)):
-#     for j in range(len(grid[i])):
-#         grid[i][j] = ' '
-        
-OriginalGrid = grid.copy()
 # show a + at the current location
 grid[y][x] = '+'
 
