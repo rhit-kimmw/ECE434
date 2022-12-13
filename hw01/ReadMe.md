@@ -10,10 +10,15 @@ Then the main program will begin. There are total 6 possible commands as a user 
 
 commands:
 'u' : UP, tells the pen to move up
+
 'd' : DOWN, tells the pen to move down
+
 'l' : LEFT, tells the pen to move left
+
 'r' : RIGHT, tells the pen to move right
+
 'c' : CLEAR, clears the screen and resets
+
 'close' : Exit. ends the program
 
 
