@@ -91,3 +91,20 @@ Modify getsetEvent.py to read your four buttons and turn on the corresponding LE
 |toggle1.c|180.2 us|5.5493 kHz|54.0 %|
 |toggle2.py|225.35 us|4.4376 kHz| 77.1 %|
 |toggle2.c|168.62 us|5.9305 kHz|48.4%|
+
+
+# hw02 grading
+
+| Points      | Description |
+| ----------- | ----------- |
+|  2/2 | Buttons and LEDs 
+|  8/8 | Etch-a-Sketch works
+|      | Measuring a gpio pin on an Oscilloscope 
+|  2/2 | Questions answered
+|  4/4 | Table complete
+|  2/2 | gpiod
+|      | Security
+|  0/1 | ssh port 
+|  0/1 | fail2ban
+| 16/20   | **Total**
+Late -2
