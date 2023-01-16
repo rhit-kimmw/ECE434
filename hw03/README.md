@@ -9,7 +9,7 @@
 
 > pins P8_11 and P8_12, P8_33 and P8_35 for Rotary Encoders.
 
->matrix8x8 is a files from examples
+>matrix8x8 is a folder from examples
 
 > to execute the homework files, run the command './filename'.
 
