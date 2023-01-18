@@ -42,3 +42,17 @@
 
 > also needed to disable the hdmi pins too.
 
+# hw03 grading
+
+| Points      | Description | |
+| ----------- | ----------- |-|
+|  8/8 | TMP101 
+|  2/2 |   | Documentation 
+|  5/5 | Etch-a-Sketch
+|  3/3 |   | setup.sh
+|  2/2 |   | Documentation
+| 17/20 | **Total**
+
+*My comments are in italics. --may*
+
+Late: -3
