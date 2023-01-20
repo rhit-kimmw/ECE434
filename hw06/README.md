@@ -42,6 +42,6 @@
 
 > The RT kernel definitely shuts down the continued ripples that you can see in the NON-RT.
 
-![NON-RT](./rt/NoN_RT.png)
+![NoN_RT](./rt/NoN_RT.png)
 
-![with_RT](./rt/RT.png)
+![RT](./rt/RT.png)
