@@ -1,0 +1,1 @@
+cmd_/home/debian/ECE434/hw06/modules/Module.symvers := sed 's/ko$$/o/' /home/debian/ECE434/hw06/modules/modules.order | scripts/mod/modpost -m    -o /home/debian/ECE434/hw06/modules/Module.symvers -e -i Module.symvers   -T -

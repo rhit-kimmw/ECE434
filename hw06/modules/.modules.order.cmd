@@ -1,0 +1,1 @@
+cmd_/home/debian/ECE434/hw06/modules/modules.order := {   echo /home/debian/ECE434/hw06/modules/hello1.ko;   echo /home/debian/ECE434/hw06/modules/hello2.ko;   echo /home/debian/ECE434/hw06/modules/hello3.ko; :; } | awk '!x[$$0]++' - > /home/debian/ECE434/hw06/modules/modules.order
