@@ -18,9 +18,10 @@
 ## Installing the Kernel source
 
 > Installed new kernel version 5.10.145-ti-r55.
+![newVersion](./hw5capture/newKernel.PNG)
 
 > Original kernel version was 5.10.140-ti-r52.
-
+![originalVersion](./hw5capture/originalKernel.PNG)
 
 ---
 
