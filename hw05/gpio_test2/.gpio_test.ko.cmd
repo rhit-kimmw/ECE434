@@ -1,0 +1,1 @@
+cmd_/home/debian/ECE434/hw05/gpio_test2/gpio_test.ko := ld -r -EL -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/debian/ECE434/hw05/gpio_test2/gpio_test.ko /home/debian/ECE434/hw05/gpio_test2/gpio_test.o /home/debian/ECE434/hw05/gpio_test2/gpio_test.mod.o;  true

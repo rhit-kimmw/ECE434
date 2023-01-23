@@ -1,0 +1,1 @@
+cmd_/home/debian/ECE434/hw05/gpio_test2/Module.symvers := sed 's/ko$$/o/' /home/debian/ECE434/hw05/gpio_test2/modules.order | scripts/mod/modpost -m    -o /home/debian/ECE434/hw05/gpio_test2/Module.symvers -e -i Module.symvers   -T -
