@@ -28,7 +28,7 @@
 
 8. Displatch latency is time latency between the task fired from the hardware to be told to run by the scheduler.Scheduling latency is time latency between the task asked to run by the scheduler to the CPU to execute the task.
 
-9. mainline is a main schedule for tasks.
+9. mainline is a main schedule for tasks. *See below*
 
 10. External event is prevented because low priority interrupt is executing in the CPU.
 
@@ -49,3 +49,17 @@
 ### RT
 
 ![RT](./rt/RT.png)
+
+# hw06 grading
+
+| Points      | Description | |
+| ----------- | ----------- |-|
+|  0/2 | Project  | *Missing*
+|  4/5 | Questions | *Mainline is the main kernel tree.*
+|  4/4 | PREEMPT_RT
+|  2/2 | Plots to 500 us
+|  4/5 | Plots - Heavy/Light load | *Your plots should put light load on one plot and heavy on the other*
+|  2/2 | Extras
+| 16/20 | **Total**
+
+*My comments are in italics. --may*
