@@ -63,3 +63,18 @@
 > displays text I generated
 
 ![text](./screenCaptures/imageMagick.jpg)
+
+# hw04 grading
+
+| Points      | Description | |
+| ----------- | ----------- | - |
+|  2/2 | Memory map 
+|  4/4 | mmap()
+|  4/4 | i2c via Kernel
+|  5/5 | Etch-a-Sketch via flask
+|  7/5 | LCD display | *Nice pictures*
+|      | Extras
+| 18/20 | **Total**
+Late -4
+*My comments are in italics. --may*
+
