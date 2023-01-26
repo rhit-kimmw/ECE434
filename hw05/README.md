@@ -48,3 +48,18 @@
 > in iio:device1, there are the sampling frequency, scale, sampling_frequency available, name, power, uevent, and the clibbias and raws for each axis(x,y,z).
 
 > Edited etch-a-sketch to move the cursur by the measurement of accelerometer.
+
+# hw05 grading
+
+| Points      | Description |
+| ----------- | ----------- |
+|  0/0 | Project 
+|  2/2 | Makefile
+|  6/6 | Kernel Source
+|  4/4 | Etch-a-Sketch
+|  8/8 | Kernel Modules: hello, ebbchar, gpio_test, led
+|  4/4 | Extras - Blink at different rates
+| 22/20 | **Total**
+Late: -2
+*My comments are in italics. --may*
+
