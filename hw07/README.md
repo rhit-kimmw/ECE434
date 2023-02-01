@@ -15,3 +15,17 @@
 ## systemd
 
 > Flask service runs automatically when bone boots up. 
+
+# hw07 grading
+
+| Points      | Description |  | Feedback
+| ----------- | ----------- | - | -
+|  0/2  | Project Template | | *missing*
+|  0/2  | | Names | 
+|  0/2  | | Executive Summary | 
+|  7/7  | 1-wire | 
+|  7/7  | systemd auto start |
+|  0    | Blynk - Etch-a-sketch - extra | 
+| 14/20 | **Total**
+
+*My comments are in italics. --may*
