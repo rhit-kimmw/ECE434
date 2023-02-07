@@ -38,3 +38,15 @@ oteproc1/state
 ![PWM](./pictures/hw8_pwm.jpg)
 
 ### 5.4 Controlling the PWM Frequency (Optional)
+
+# hw08 grading
+
+| Points      | Description |
+| ----------- | ----------- |
+| 14/14 | PRU
+|  0/2 | Controlling the PWM Frequency - optional
+|  0/2 | Reading an Input at Regular Intervals - optional
+|  0/2 | Analog Wave Generator - optional
+| 14 | **Total**
+
+*My comments are in italics. --may*
